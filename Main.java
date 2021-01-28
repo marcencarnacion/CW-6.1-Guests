@@ -10,7 +10,7 @@ class Main
   //------------------------------------------------------------
   public static void main(String[] args) 
   {
-      String[] guests = {"Paul","Wendy","Jared","Eric", "Ayame", "Ian", "Isobel", "Hakem", "Hilanie"};
+      String[] guests = {"Paul","Wendy","Jared","Eric", "Ayame", "Ian", "Isobel", "Hakem"};
       String name;
       boolean found = false;
       Scanner scan = new Scanner (System.in);
